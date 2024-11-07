@@ -1,0 +1,20 @@
+cd /home/lucas/Documents/GitHub/ExerciciosDaFaculdade ; /usr/bin/env /home/lucas/Documents/GitHub/ExerciciosDaFaculdade/.venv/bin/python /home/lucas/.vscode/extensions/ms-python.debugpy-2024.12.0-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 46735 -- /home/lucas/Documents/GitHub/ExerciciosDaFaculdade/2024\ -\ Inteligencia\ Artificial/Agenda\ 06\ -\ NP2/NP2.py 
+
+Métricas para o modelo KNN:
+Acurácia: 0.9533333333333334
+Precisão: 0.9534480458850206
+Revocação: 0.9533333333333334
+F1 Score: 0.9533286661999534
+
+Matriz de Confusão:
+
+Métricas para o modelo SVM:
+Acurácia: 0.9866666666666667
+Precisão: 0.9871794871794873
+Revocação: 0.9866666666666667
+F1 Score: 0.9866613311991462
+
+Matriz de Confusão:
+
+Acurácia média KNN: 0.95
+Acurácia média SVM: 0.99
