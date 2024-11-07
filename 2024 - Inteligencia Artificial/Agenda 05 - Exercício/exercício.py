@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 
 # Defina o caminho do arquivo local
-dataset_path = './dataset-iris.csv'
+dataset_path = '/home/lucas/Documents/GitHub/ExerciciosDaFaculdade/2024 - Inteligencia Artificial/Agenda 05 - Exercício/dataset-iris.csv'
 
 # Carregar o dataset a partir de um arquivo CSV
 def carregar_dados(caminho):

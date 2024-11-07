@@ -1,0 +1,3 @@
+┌──(.venv)─(lucas㉿kali)-[~/Documents/GitHub/ExerciciosDaFaculdade]
+└─$  cd /home/lucas/Documents/GitHub/ExerciciosDaFaculdade ; /usr/bin/env /home/lucas/Documents/GitHub/ExerciciosDaFaculdade/.venv/bin/python /home/lucas/.vscode/extensions/ms-python.debugpy-2024.12.0-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 57677 -- /home/lucas/Documents/GitHub/ExerciciosDaFaculdade/2024\ -\ Inteligencia\ Artificial/Agenda\ 05\ -\ Exercício/exercício.py 
+Acurácia do KNN com k=3: 1.00
